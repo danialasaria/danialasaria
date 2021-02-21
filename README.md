@@ -6,23 +6,23 @@
 
 - 🔭 I’m currently working on:
 
-  🍳 [Omlet](https://github.com/a-qxin/Omlet/tree/master/src): hierarchical flashcards + gamified studying.
+  •  🍳 [Omlet](https://github.com/a-qxin/Omlet/tree/master/src): hierarchical flashcards + gamified studying.
 
 
 - 🌱 I’m currently learning:
 
-  ⚛️ Frontend Development using ReactJS
+  •  💡 Machine Learning through [Andrew Ng's course](https://www.coursera.org/learn/machine-learning?action=enroll)
   
-  💡 Machine Learning through [Andrew Ng's course](https://www.coursera.org/learn/machine-learning?action=enroll)
-
+  •  ⚛️ Frontend Development using ReactJS
+  
 
 - 👯 I’m looking to collaborate on projects that are:
 
-  • for positive social impact
+    • for positive social impact
   
-  • technically fascinating
+    • technically fascinating
   
-  • an opportunity to learn
+    • an opportunity to learn
 
 
 - 📫 How to reach me: 

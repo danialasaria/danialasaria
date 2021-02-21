@@ -2,8 +2,7 @@
 
 <!--
 **danialasaria/danialasaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+--->
 
 - 🔭 I’m currently working on:
 🍳 [Omlet](https://github.com/a-qxin/Omlet/tree/master/src): hierarchical flashcards + gamified studying.
@@ -25,4 +24,3 @@ Here are some ideas to get you started:
 • via [LinkedIn](linkedin.com/in/danial-asaria)
 
 - ⚡ Fun fact: I play chess
-

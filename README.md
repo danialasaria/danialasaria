@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on:
 
-  •  🍳 [Omlet](https://github.com/a-qxin/Omlet/tree/master/src): hierarchical flashcards + gamified studying.
+  •  🍳 [Omlet](https://github.com/a-qxin/Omlet): hierarchical flashcards + gamified studying.
 
 
 - 🌱 I’m currently learning:

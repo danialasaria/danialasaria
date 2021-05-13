@@ -29,6 +29,6 @@
 
   • via email: [asaria.danial@gmail.com](asaria.danial@gmail.com)
   
-  • via [LinkedIn](linkedin.com/in/danial-asaria)
+  • via [LinkedIn](https://www.linkedin.com/in/danial-asaria/)
 
 - ⚡ Fun fact: I play chess

@@ -27,6 +27,8 @@
 
 - 📫 How to reach me: 
 
+  • via my website: [https://danialasaria.github.io/personal-website/](https://danialasaria.github.io/personal-website/)
+
   • via email: [asaria.danial@gmail.com](asaria.danial@gmail.com)
   
   • via [LinkedIn](https://www.linkedin.com/in/danial-asaria/)

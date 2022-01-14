@@ -8,7 +8,7 @@
 
   •  🍳 [Omlet](https://github.com/a-qxin/Omlet): hierarchical flashcards + gamified studying.
 
-  •  Bookkeeping for Tutors(https://github.com/danialasaria/Freelancer-Finances)
+  •  [Bookkeeping for Tutors](https://github.com/danialasaria/Freelancer-Finances)
   
 - 🌱 I’m currently learning:
 

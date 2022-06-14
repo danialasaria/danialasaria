@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on:
 
 
-  •  [Snapchat's Ads Manager Platform] https://ads.snapchat.com/ 
+  •  https://ads.snapchat.com/ [Snapchat's Ads Manager Platform] 
   
   •  🍳 [Omlet](https://github.com/a-qxin/Omlet): hierarchical flashcards + gamified studying.
 

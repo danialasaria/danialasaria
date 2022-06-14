@@ -6,6 +6,9 @@
 
 - 🔭 I’m currently working on:
 
+
+  •  [https://ads.snapchat.com/] Snapchat's Ads Manager Platform 
+  
   •  🍳 [Omlet](https://github.com/a-qxin/Omlet): hierarchical flashcards + gamified studying.
 
   •  [Bookkeeping for Tutors](https://github.com/danialasaria/Freelancer-Finances)
@@ -28,10 +31,10 @@
 
 - 📫 How to reach me: 
 
-  • via my website: [https://danialasaria.github.io/personal-website/](https://danialasaria.github.io/personal-website/)
+  • via my website: [https://danialasaria.com](https://danialasaria.com)
 
   • via email: [asaria.danial@gmail.com](asaria.danial@gmail.com)
   
   • via [LinkedIn](https://www.linkedin.com/in/danial-asaria/)
 
-- ⚡ Fun fact: I play chess
+- ⚡ Fun fact: I am a professional chess player/coach

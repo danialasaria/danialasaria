@@ -9,7 +9,7 @@
 
   •  👻 [Snap Inc. Ads Manager Platform](https://ads.snapchat.com/)
 
-  •  [Bookkeeping for Tutors](https://github.com/danialasaria/LogYourLessonsV2)
+  •  :money_with_wings: [Bookkeeping for Tutors](https://github.com/danialasaria/LogYourLessonsV2)
   
   •  🍳 [Omlet](https://github.com/a-qxin/Omlet): hierarchical flashcards + gamified studying.
   

@@ -7,11 +7,11 @@
 - 🔭 I’m currently working on:
 
 
-  •  👻 [Snap Inc. Ads Manager Platform](https://ads.snapchat.com/) 
+  •  👻 [Snap Inc. Ads Manager Platform](https://ads.snapchat.com/)
+
+  •  [Bookkeeping for Tutors](https://github.com/danialasaria/LogYourLessonsV2)
   
   •  🍳 [Omlet](https://github.com/a-qxin/Omlet): hierarchical flashcards + gamified studying.
-
-  •  [Bookkeeping for Tutors](https://github.com/danialasaria/Freelancer-Finances)
   
 - 🌱 I’m currently learning:
 

@@ -5,7 +5,7 @@
 --->
 
 - 🔭 I’m currently working on:
-- 
+
   •  🤖 [AI Cover Letter](https://aicoverletter.org)
   
   •  👻 [Snap Inc. Ads Manager Platform](https://ads.snapchat.com/)
